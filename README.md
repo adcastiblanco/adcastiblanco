@@ -1,12 +1,12 @@
 ### Hi there 👋, My name is Angel Castiblanco
-#### I'm Frontend Developer in React JS and Mobile Developer in React Native
+#### I'm Frontend Developer in React JS
 
-Skills: REACT / REACT NATIVE / REDUX / JS / HTML / CSS / And others...(Frontend libraries)
+Skills: REACT / JAVASCRIPT / HTML / CSS / TYPESCRIPT
 
-- 🔭 I’m currently working on personal projects and new challenges 
-- 🌱 I’m currently learning backend technologies 
-- 👯 I’m looking to collaborate on small, medium and large projects with nice teams 
-- 💬 Ask me about programming, gaming,  philosophy, astronomy or anything we can learn 
+- 🔭 I’m currently working as Frontend Software Engineer.
+- 🌱 I’m currently learning Backend to be a Fullstack Developer.
+- 👯 I’m looking to collaborate on small, medium and large projects with nice teams.
+- 💬 Ask me about programming or anything we can learn.
 - 📫 How to reach me: [Twitter](https://twitter.com/ADeveloperPlay) 
 
 
